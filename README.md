@@ -1,2 +1,3 @@
-# dmenu
-this is a repository of my personal use build of dmenu
+## Installation for noobs
+```bash
+git clone https://github.com/christemunxyz/dmenu
